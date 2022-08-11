@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\bin\Debug\linkedlist_try1_1401.05.19.exe.config
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\bin\Debug\linkedlist_try1_1401.05.19.exe
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\bin\Debug\linkedlist_try1_1401.05.19.pdb
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\obj\Debug\linkedlist_try1_1401.05.19.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\obj\Debug\linkedlist_try1_1401.05.19.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\obj\Debug\linkedlist_try1_1401.05.19.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\obj\Debug\linkedlist_try1_1401.05.19.exe
+D:\kia prjc\tamrin\linkedlist_try1_1401.05.19\linkedlist_try1_1401.05.19\obj\Debug\linkedlist_try1_1401.05.19.pdb
